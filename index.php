@@ -9,7 +9,7 @@ $productos = [
 ];
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html>   
 <html lang="es">
 
 <head>
